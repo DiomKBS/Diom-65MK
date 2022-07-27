@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${GITREPO}/Diom-65MK/PCB/Lib/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "microcontroller")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/microcontroller.kicad_sym")(options "")(descr ""))
+)
